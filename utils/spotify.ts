@@ -42,5 +42,12 @@ export async function nowPlaying() {
   } else if (status === 200) {
     const data = await response.json();
     return data;
+  } else {
+    throw new Error(JSON.stringify({
+      error: 'Autentication failed...',
+      response: response,
+      status: status,
+      authorizationCode: Authorization
+    }));
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "natemoo-re",
+  "name": "jaluma",
   "private": true,
   "version": "1.0.0",
   "description": "Github profile",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/natemoo-re/natemoo-re.git"
+    "url": "git+https://github.com/jaluma/jaluma.git"
   },
   "keywords": [],
   "author": "Nate Moore",
