@@ -10,7 +10,8 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-particles-js": "^3.2.1",
-    "typescript": "^3.9.6"
+    "typescript": "^3.9.6",
+    "typewriter-effect": "^2.13.1"
   },
   "devDependencies": {
     "@types/node": "^14.0.22",
