@@ -12,7 +12,7 @@ export interface Props {
 export const HeaderBanner: React.FC<Props> = ({ strings, height, width, font }) => {
   return (
     <div style={{ width: width, height: height }}>
-      <BackgroundParticles />
+      <BackgroundParticles particles={80} density={800} color={'#000000'} backgroundColor={'#E8DEDB'} />
       <TextWriter strings={strings} font={font} />
     </div>
   );

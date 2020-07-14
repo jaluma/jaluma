@@ -10,21 +10,25 @@ export interface FontConfig {
   size?: number;
   family?: string;
   color?: string;
-  weight?: string;
+  weight?: number;
 }
 
 export const TextWriter: React.FC<Props> = ({ strings, font }) => {
   return (
-    <Typist
-      style={{
-        fontSize: font.size ? `${font.size }px` : undefined,
-        lineHeight: 1,
-        fontFamily: font.family,
-        color: font.color,
-        fontWeight: font.weight,
-      }}
-    >
-      {strings}
+    <Typist>
+      { strings.map(text =>
+        <span
+          style={{
+            fontSize: font.size ? `${font.size }px` : undefined,
+            lineHeight: 1,
+            fontFamily: font.family,
+            color: font.color,
+            fontWeight: font.weight
+          }}
+        >
+          {text}
+        </span>
+      )}
     </Typist>
   );
 };

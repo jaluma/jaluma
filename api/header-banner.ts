@@ -12,14 +12,14 @@ export default async function (req: NowRequest, res: NowResponse) {
   const params = decode(req.url.split("?")[1]) as Params;
 
   if (!params || typeof params.strings === "undefined") {
-    return res.status(200).end();
+    return res.status(400).end();
   }
 
   const array = JSON.parse(decodeURIComponent(params.strings));
   const font: FontConfig = {
     color: '#111',
     family: 'Helvetica Neue',
-    weight: '600',
+    weight: 600,
     size: 70
   }
 
