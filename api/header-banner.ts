@@ -20,7 +20,8 @@ export default async function (req: NowRequest, res: NowResponse) {
     color: '#111',
     family: 'Helvetica Neue',
     weight: 600,
-    size: 70
+    size: 70,
+    align: 'center'
   }
 
   const text = renderToString(

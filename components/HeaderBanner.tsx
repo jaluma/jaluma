@@ -3,7 +3,7 @@ import BackgroundParticles from "./Background";
 import TextWriter, { FontConfig } from "./Typewritter";
 
 export interface Props {
-  strings?: Array<string>;
+  strings: Array<string>;
   height: string;
   width: string;
   font: FontConfig;

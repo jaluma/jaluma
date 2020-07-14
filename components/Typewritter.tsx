@@ -1,3 +1,4 @@
+import { TextAlignProperty } from "csstype";
 import React from "react";
 import Typist from 'react-typist';
 
@@ -11,6 +12,7 @@ export interface FontConfig {
   family?: string;
   color?: string;
   weight?: number;
+  align?: TextAlignProperty;
 }
 
 export const TextWriter: React.FC<Props> = ({ strings, font }) => {
@@ -23,7 +25,8 @@ export const TextWriter: React.FC<Props> = ({ strings, font }) => {
             lineHeight: 1,
             fontFamily: font.family,
             color: font.color,
-            fontWeight: font.weight
+            fontWeight: font.weight,
+            textAlign: font.align
           }}
         >
           {text}
