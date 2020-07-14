@@ -1,4 +1,4 @@
 {
   "version": 2,
-  "rewrites": [{ "source": "/now-playing", "destination": "/api/now-playing" }]
+  "rewrites": [{ "source": "/now-playing", "destination": "/api/now-playing" }, { "source": "/header-banner", "destination": "/api/header-banner" }]
 }
