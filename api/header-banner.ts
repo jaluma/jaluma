@@ -1,10 +1,11 @@
 import { NowRequest, NowResponse } from "@vercel/node";
 import { renderToString } from "react-dom/server";
 import { decode } from "querystring";
-import TextWriter, { FontConfig } from "../components/Typewritter";
+import { FontConfig } from "../components/Typewritter";
+import { HeaderBanner } from "../components/HeaderBanner";
 
 export interface Params {
-    strings?: string;   //encode
+    strings?: string;   //JSON and encode
   }
 
 export default async function (req: NowRequest, res: NowResponse) {
@@ -23,7 +24,7 @@ export default async function (req: NowRequest, res: NowResponse) {
   }
 
   const text = renderToString(
-    TextWriter({ strings: array, font: font })
+    HeaderBanner({ strings: array, width: '100%', height: '30%', font: font })
   );
   return res.status(200).send(text);
 }

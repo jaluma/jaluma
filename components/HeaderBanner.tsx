@@ -9,7 +9,7 @@ export interface Props {
   font: FontConfig;
 }
 
-const HeaderBanner = ({ strings, height, width, font }) => {
+export const HeaderBanner: React.FC<Props> = ({ strings, height, width, font }) => {
   return (
     <div style={{ width: width, height: height }}>
       <BackgroundParticles />
@@ -17,5 +17,3 @@ const HeaderBanner = ({ strings, height, width, font }) => {
     </div>
   );
 };
-
-export default HeaderBanner;
