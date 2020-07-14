@@ -17,7 +17,7 @@ export default async function (req: NowRequest, res: NowResponse) {
   res.setHeader("Content-Type", "image/svg+xml");
   res.setHeader("Cache-Control", "s-maxage=1, stale-while-revalidate");
 
-  const array = JSON.parse(decodeURIComponent(params.strings));
+  const array = decodeURIComponent(params.strings);
   const font: FontConfig = {
     color: '#111',
     family: 'Helvetica Neue',
