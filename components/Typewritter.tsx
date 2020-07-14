@@ -1,5 +1,5 @@
 import React from "react";
-import Typewriter from "typewriter-effect";
+import Typist from 'react-typist';
 
 export interface Props {
   strings: Array<string>;
@@ -15,12 +15,7 @@ export interface FontConfig {
 
 export const TextWriter: React.FC<Props> = ({ strings, font }) => {
   return (
-    <Typewriter
-      options={{
-        strings: strings,
-        autoStart: true,
-        loop: true,
-      }}
+    <Typist
       style={{
         fontSize: font.size ? `${font.size }px` : undefined,
         lineHeight: 1,
@@ -28,7 +23,9 @@ export const TextWriter: React.FC<Props> = ({ strings, font }) => {
         color: font.color,
         fontWeight: font.weight,
       }}
-    />
+    >
+      {strings}
+    </Typist>
   );
 };
 
