@@ -14,7 +14,7 @@ export default async function (req: NowRequest, res: NowResponse) {
     return res.status(200).end();
   }
 
-  res.setHeader("Content-Ty pe", "image/svg+xml");
+  res.setHeader("Content-Type", "image/svg+xml");
   res.setHeader("Cache-Control", "s-maxage=1, stale-while-revalidate");
 
   const array = JSON.parse(decodeURIComponent(params.strings));
