@@ -9,6 +9,7 @@
     "querystring": "^0.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-particles-js": "^3.2.1",
     "typescript": "^3.9.6"
   },
   "devDependencies": {
