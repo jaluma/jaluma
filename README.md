@@ -16,13 +16,13 @@
 <img align='right' src="https://i.imgur.com/i2C6V2G.png" width="230" style="border-radius: 50%;">
 <p><em>Software Enginner at <a href="http://www.uniovi.es">University of Oviedo</a></em></p>
 
-<p>Hi, I'm studing Software Engieering in Oviedo, Spain🚀. Lately, I was working in my FDP based on microservices architecture, DevOps or new trends that have been appearing.</p>
+<p>Hi, I'm a Software Engineer graduated from University of Oviedo, Spain🚀, in 2020. Lately, I was working in my FDP based on microservices architecture, DevOps or new trends that have been appearing.</p>
   
 **Talking about Personal Stuffs**
 
 - 💻 Interested in low-level software architectures and systems.
 - 🌱 I’m currently learning about DevOps. 
-- 👯 I’m looking to collaborate on AOSP projects 🤝.
+- 👯 I’m trying to collaborate on AOSP projects 🤝.
 - 💬 Ask me about anything [here](https://github.com/jaluma/jaluma/issues).
 
 **Languages and Tools**  
