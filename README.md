@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there! I'm Javier Martínez - @jaluma</h3>
 <p align="center"><em>Software Enginner at <a href="https://www.freightol.com/">Freightol</a></em></p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/javier-m-7414a513a/">
+  <a href="www.linkedin.com/in/jmartinezalvarez">
     <img alt="Javier Martínez's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.0.1/icons/linkedin.svg" />
   </a>
   <a href="mailto:javiermartinezalvarez98@gmail.com">
@@ -16,13 +16,13 @@
 **About me**
 
 <img align='right' src="https://i.imgur.com/i2C6V2G.png" width="230" style="border-radius: 50%;">
-<p>Hi, I'm a Software Engineer graduated from University of Oviedo, Spain🚀, in 2020. Lately, I was working in my FDP based on microservices architecture, DevOps or new trends that have been appearing.</p>
+<p>Hi, I'm a Software Engineer graduated from University of Oviedo, Spain🚀, in 2020. Lately, I was working in my FDP based on microservices architecture, AI or new trends that have been appearing.</p>
   
 **Talking about Personal Stuffs**
 
 - 💻 Interested in low-level software architectures and systems.
-- 🌱 I’m currently learning about DevOps. 
-- 👯 I’m trying to collaborate on AOSP projects 🤝.
+- 🌱 I’m currently learning about AI. 
+- 👯 Always focused on finding the best solution.
 - 💬 Ask me about anything [here](https://github.com/jaluma/jaluma/issues).
 
 **Languages and Tools**
