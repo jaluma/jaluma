@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hi there! I'm Javier Martínez - @jaluma</h3>
-<p align="center"><em>Software Enginner at <a href="https://www.freightol.com/">Freightol</a></em></p>
+<p align="center"><em>Software Engineer at <a href="https://www.freightol.com/">Freightol</a></em></p>
 <p align="center">
   <a href="www.linkedin.com/in/jmartinezalvarez">
     <img alt="Javier Martínez's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.0.1/icons/linkedin.svg" />
