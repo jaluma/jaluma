@@ -1,51 +1,51 @@
 <h3 align="center">👋 Hi there! I'm Javier Martínez - @jaluma</h3>
-<p align="center"><em>Software Engineer at <a href="https://www.freightol.com/">Freightol</a></em></p>
+<p align="center"><em>AI Product Engineer @ <a href="https://www.zylon.ai/">Zylon by PrivateGPT</a></em></p>
 <p align="center">
-  <a href="www.linkedin.com/in/jmartinezalvarez">
-    <img alt="Javier Martínez's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.0.1/icons/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/jmartinezalvarez">
+    <img alt="Javier Martínez's LinkedIn" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" />
   </a>
   <a href="mailto:javiermartinezalvarez98@gmail.com">
-    <img alt="Javier Martínez's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" />
-  </a>
-  <a href="https://t.me/JaLuMa98">
-    <img alt="Javier Martínez's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.0.1/icons/telegram.svg" />
+    <img alt="Javier Martínez's Email" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" />
   </a>
 </p>
-
 
 **About me**
 
 <img align='right' src="https://i.imgur.com/i2C6V2G.png" width="230" style="border-radius: 50%;">
-<p>Hi, I'm a Software Engineer graduated from University of Oviedo, Spain🚀, in 2020. Lately, I was working in my FDP based on microservices architecture, AI or new trends that have been appearing.</p>
+<p>Passionate AI Product Engineer with over 4 years of experience in designing and implementing innovative applications using good practices and software design patterns.</p>
   
+<p>Currently, I am pursuing a Master’s degree in Artificial Intelligence, focusing on Natural Language Processing (NLP) and Generative AI. I work at Zylon by PrivateGPT, where I develop state-of-the-art AI solutions in a startup environment. Always seeking new challenges and opportunities to grow my career in the software industry.</p>
+
 **Talking about Personal Stuffs**
 
-- 💻 Interested in low-level software architectures and systems.
-- 🌱 I’m currently learning about AI. 
-- 👯 Always focused on finding the best solution.
-- 💬 Ask me about anything [here](https://github.com/jaluma/jaluma/issues).
+- 🌱 Deepening my knowledge in AI, data engineering, and NLP.
+- 💻 Fascinated by low-level software architectures and systems.
+- 📚 Actively engaged in my Master’s studies, with a focus on cutting-edge NLP techniques.
+- 🛠️ Skilled in designing and integrating AI systems with various applications.
+- 👯 Focused on finding and implementing optimal solutions.
+- 💬 Feel free to ask me about anything [here](https://github.com/jaluma/jaluma/issues).
 
 **Languages and Tools**
 
 ***Currently focused on***
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<p>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png">
+</p>
 
 ***Others***
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<p>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
+</p>
 
 **Stats**
 <p>
