@@ -1,54 +1,61 @@
-<h3 align="center">👋 Hi there! I'm Javier Martínez - @jaluma</h3>
-<p align="center"><em>AI Product Engineer @ <a href="https://www.zylon.ai/">Zylon by PrivateGPT</a></em></p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6E40C9&center=true&width=600&lines=Hi%2C+I'm+Javier+%F0%9F%91%8B;Product+AI+Engineer+%40+Zylon;PrivateGPT+Core+Engineer+(57k%2B+%E2%AD%90);PhD+Researcher+%40+UniOvi+(Sep+2026)" alt="Typing SVG" />
+</div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jmartinezalvarez">
-    <img alt="Javier Martínez's LinkedIn" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:javiermartinezalvarez98@gmail.com">
-    <img alt="Javier Martínez's Email" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/zylon-ai/private-gpt">
+    <img src="https://img.shields.io/badge/PrivateGPT-57k+_⭐-FFD700?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
-**About me**
+---
 
-<img align='right' src="https://i.imgur.com/i2C6V2G.png" width="230" style="border-radius: 50%;">
-<p>Passionate AI Product Engineer with over 4 years of experience in designing and implementing innovative applications using good practices and software design patterns.</p>
-  
-<p>Currently, I am pursuing a Master’s degree in Artificial Intelligence, focusing on Natural Language Processing (NLP) and Generative AI. I work at Zylon by PrivateGPT, where I develop state-of-the-art AI solutions in a startup environment. Always seeking new challenges and opportunities to grow my career in the software industry.</p>
+### 🧠 About me
 
-**Talking about Personal Stuffs**
+AI engineer with **6 years of experience**, the last three building private generative AI infrastructure at [Zylon](https://www.zylon.ai/), from model serving to production agents, for enterprise customers in regulated industries.
 
-- 🌱 Deepening my knowledge in AI, data engineering, and NLP.
-- 💻 Fascinated by low-level software architectures and systems.
-- 📚 Actively engaged in my Master’s studies, with a focus on cutting-edge NLP techniques.
-- 🛠️ Skilled in designing and integrating AI systems with various applications.
-- 👯 Focused on finding and implementing optimal solutions.
-- 💬 Feel free to ask me about anything [here](https://github.com/jaluma/jaluma/issues).
+Core engineer behind [PrivateGPT](https://github.com/zylon-ai/private-gpt) (57k+ GitHub stars), the open-source API layer powering [Zylon](https://www.zylon.ai/)'s private AI platform and used by thousands of developers worldwide.
 
-**Languages and Tools**
+Starting a **PhD at the University of Oviedo** in September 2026 on memory systems for LLM-based agents.
 
-***Currently focused on***
-<p>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png">
+---
+
+### 🔧 What I work on
+
+| Area | Details |
+|------|---------|
+| 🤖 **Agents** | Tool calling, MCP integration, RAG pipelines |
+| 🔒 **Safety** | Sandboxed code execution for LLM-driven actions |
+| ⚙️ **Model serving** | Triton, vLLM, PyTorch for on-premises and airgapped deployments |
+| 🧪 **Research** | Memory systems for LLM-based agents |
+
+---
+
+### 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaluma&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-***Others***
+---
+
+### 🛠️ Stack
+
 <p>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vLLM-412991?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-FF6B35?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 </p>
 
-**Stats**
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaluma&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaluma&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
